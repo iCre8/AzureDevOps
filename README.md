@@ -9,7 +9,7 @@ For this project, you will write a Packer template and a Terraform template to d
 3. Update this README to reflect how someone would use your code.
 
 ## Dependencies
-1. Create an Azure Account
+1. [Create an Azure Account](https://portal.azure.com/)
 2. Install the Azure command line interface
 3. Install Packer
 4. Install Terraform
