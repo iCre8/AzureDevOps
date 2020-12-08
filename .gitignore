@@ -64,6 +64,7 @@ typings/
 
 # Output of 'npm pack'
 *.tgz
+notes
 
 # Yarn Integrity file
 .yarn-integrity
@@ -93,6 +94,7 @@ dist
 
 # Serverless directories
 .serverless/
+.terraform
 
 # FuseBox cache
 .fusebox/
